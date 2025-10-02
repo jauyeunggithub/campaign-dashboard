@@ -2,7 +2,15 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
-First, run:
+Firs, run:
+
+```bash
+npm ci
+```
+
+to install packages
+
+Then, run:
 
 ```bash
 npx prisma migrate dev --name init
